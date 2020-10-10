@@ -15,12 +15,12 @@
 
 ## Interests
 
-<code> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" /> </code>
-<code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="50"></code>
-<code><img src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" width="200"></code>
-<code><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"> </code>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" />
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="50">
+<img src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" width="200">
+<img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">
 
 ## Links
 [![LinkedIn Badge](https://img.shields.io/badge/OsmanYavuzDemir-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/osmanyavuzdemir/)
