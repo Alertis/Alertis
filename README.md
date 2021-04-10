@@ -1,5 +1,4 @@
-# <center> Osman Yavuz DEMİR (Alertis) </center> 
-# <center> <a href="https://alertis.dev" target="_blank">Alertis.Dev</a> </center> 
+# <center> Osman Yavuz DEMİR (Alertis)  <a href="https://alertis.dev" target="_blank">Alertis.Dev</a> </center> 
 <hr>
 
 <p>
