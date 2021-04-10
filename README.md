@@ -1,4 +1,5 @@
 # <center> Osman Yavuz DEMİR (Alertis) </center> 
+# <center> <a href="https://alertis.dev" target="_blank">Alertis.Dev</a> </center> 
 <hr>
 
 <p>
@@ -8,7 +9,7 @@
 
 [![View Badge](https://komarev.com/ghpvc/?username=Alertis&color=green)]() 
 [![GitHub followers](https://img.shields.io/github/followers/Alertis.svg?style=social&label=Follow)](https://github.com/Alertis?tab=followers)
-[![Twitter](https://img.shields.io/twitter/follow/Alertisx?label=Twitter&style=social)](https://twitter.com/Alertisx)
+[![Twitter](https://img.shields.io/twitter/follow/Alertisx?label=Twitter&style=social)](https://twitter.com/AlertisDev)
 
 ## Interests
 
@@ -16,7 +17,7 @@
 
 ## Links
 [![LinkedIn Badge](https://img.shields.io/badge/OsmanYavuzDemir-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/osmanyavuzdemir/)
-[![Twitter Badge](https://img.shields.io/badge/Alertisx-yellow?style=for-the-badge&logo=Twitter)](https://twitter.com/Alertisx)
+[![Twitter Badge](https://img.shields.io/badge/Alertisx-yellow?style=for-the-badge&logo=Twitter)](https://twitter.com/AlertisDev)
 [![Medium Badge](https://img.shields.io/badge/OsmanYavuzDemir-black?style=for-the-badge&logo=Medium)](https://medium.com/@osmanyavuzdemir96)
 [![Gmail Badge](https://img.shields.io/badge/OsmanYavuzDemir96@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:osmanyavuzdemir96@gmail.com)
 
