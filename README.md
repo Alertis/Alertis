@@ -8,7 +8,7 @@
 
 [![View Badge](https://komarev.com/ghpvc/?username=Alertis&color=green)]() 
 [![GitHub followers](https://img.shields.io/github/followers/Alertis.svg?style=social&label=Follow)](https://github.com/Alertis?tab=followers)
-[![Twitter](https://img.shields.io/twitter/follow/Alertisx?label=Twitter&style=social)](https://twitter.com/AlertisDev)
+[![Twitter](https://img.shields.io/twitter/follow/AlertisDev?label=Twitter&style=social)](https://twitter.com/AlertisDev)
 
 ## Interests
 
