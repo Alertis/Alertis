@@ -2,7 +2,7 @@
 <hr>
 
 <p>
-    Celal Bayar Üniversitesi Yazılım Mühendisliği mezunuyum. Javascript ile ilgileniyorum. Frontend geliştiricisiyim. 2014'ten beri web teknolojileri ile çalışmaktayım. Şu an <a href="https://sanatteknoloji.com.tr/"> Sanat Teknoloji </a> firmasında bir projenin VUE ile frontend geliştirilmesinde görev alıyorum. Ek olarak kendi projelerim için React, React Native ve NodeJS kullanıyorum. 
+    Celal Bayar Üniversitesi Yazılım Mühendisliği mezunuyum. Javascript ile ilgileniyorum. Frontend geliştiricisiyim. 2014'ten beri web teknolojileri ile çalışmaktayım. Şu an <a href="https://kaft.com/"> Kaft </a> firmasında frontend developer olarak VUE ile geliştirme yapıyorum. Ek olarak kendi projelerim için React, React Native ve NodeJS kullanıyorum. 
 </p>
 
 
